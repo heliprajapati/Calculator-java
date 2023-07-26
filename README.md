@@ -1,2 +1,2 @@
 # Calculator-java
-Created a calculator using android studio
+Created a simple calculator using android studio
